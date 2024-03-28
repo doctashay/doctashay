@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shay!
 
-🚀 I'm ambitiously coding my way out of a non-tech role into the tech universe.
+🚀 Coding my way out of a non-tech role!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-blueviolet)
@@ -30,13 +30,8 @@
 ## 🌱 I’m Currently Learning
 - Advanced backend development
 - Cloud computing with AWS
+- Deployment solutions with Docker and Kubernetes
+- Application of machine learning and neural networks 
 
 ## 🎯 Goals
-Transition into a tech role, finish my DayZ Standalone project, and own a coding-friendly home.
-
-## 📫 Reach Me
-Drop a message here on GitHub or through my email.
-
----
-
-*Thanks for visiting, and let's connect!*
+Transition into a tech role, hopefully in the hospitality IT industry, and make awesome products!
