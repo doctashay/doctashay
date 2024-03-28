@@ -23,15 +23,15 @@
 ![](https://img.shields.io/badge/Tools-Jenkins-d24939)
 
 ## 🤖 Ask Me About
-- C++ (`C++`)
-- Reverse Engineering (`RE`)
-- Windows Kernel (`Windows`)
+- C++
+- Reverse Engineering
+- Windows Kernel
 
 ## 🌱 I’m Currently Learning
 - Advanced backend development
 - Cloud computing with AWS
 - Deployment solutions with Docker and Kubernetes
-- Application of machine learning and neural networks 
+- Application of machine learning and neural networks
 
 ## 🎯 Goals
 Transition into a tech role, hopefully in the hospitality IT industry, and make awesome products!
