@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Shay!
 
-🚀 Coding my way out of a non-tech role!
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-blueviolet)
 ![](https://img.shields.io/badge/Code-Python-blue)
@@ -25,4 +23,4 @@
 - Application of machine learning and neural networks
 
 ## 🎯 Goals
-Transition into a tech role, hopefully in the hospitality IT industry, and make awesome products!
+Transition into a tech role and make awesome products!
