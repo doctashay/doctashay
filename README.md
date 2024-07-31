@@ -18,9 +18,9 @@
 
 ## 🌱 I’m Currently Learning
 - Desktop and backend development
-- Cloud computing with AWS
-- Deployment solutions with Docker and Kubernetes
-- Application of machine learning and neural networks
+- Documentation and code quality tools like Doxygen and Cppcheck
+- Static analysis and best practices in software development
+
 
 ## 🎯 Goals
 Transition into a tech role and make awesome products!
