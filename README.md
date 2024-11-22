@@ -15,12 +15,17 @@
 - C++
 - Reverse Engineering
 - Windows Kernel
+- Observability and monitoring dashboards
+- SQL Server databases
+- 
 
 ## 🌱 I’m Currently Learning
+- Advanced observability practices with Grafana and Prometheus
 - Desktop and backend development
 - Documentation and code quality tools like Doxygen and Cppcheck
-- Static analysis and best practices in software development
 
 
 ## 🎯 Goals
-Transition into a tech role and make awesome products!
+- Transition into a more specific tech role and create amazing products!
+
+Currently, I’m leading an Observability Team at my casino, building a state-of-the-art dashboard for gaming and marketing insights using Grafana and Prometheus. 
