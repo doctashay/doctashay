@@ -17,7 +17,6 @@
 - Windows Kernel
 - Observability and monitoring dashboards
 - SQL Server databases
-- 
 
 ## 🌱 I’m Currently Learning
 - Advanced observability practices with Grafana and Prometheus
